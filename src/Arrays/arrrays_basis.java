@@ -7,9 +7,8 @@ public class arrrays_basis {
         };
         System.out.println(arr.length);
         System.out.println(arr[4]);
-        int[] arr1=new int[6];
-        System.out.println(arr1[1]);
-        arr1[3]=6;
+        int[] ass=new int[6];
+        System.out.println(ass[1]);
 
     }
 }
