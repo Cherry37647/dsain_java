@@ -3,7 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 public class largestelementofarray {
-     public static void main(String[] args){
+     public static int main(String[] args){
          Scanner sc=new Scanner(System.in);
          System.out.println("enter array size");
          int n=sc.nextInt();
@@ -20,5 +20,6 @@ public class largestelementofarray {
                  System.out.println("largest elementof array: "+max);
              }
          }
+         return max;
      }
 }
