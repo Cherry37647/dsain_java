@@ -24,3 +24,4 @@ public class SecondLargest {
         System.out.println("second largest element of array: "+smax);
     }
 }
+
